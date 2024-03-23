@@ -242,3 +242,5 @@ if (manager.isLoggedIn()) {
     }
 }
 }
+}
+}
